@@ -26,18 +26,12 @@ En este repositorio, encontrarás:
 
 Todos los proyectos en este repositorio están bajo una licencia que requiere atribución (Créditos) al autor original (yo) por el trabajo realizado. Asegúrate de leer y comprender los términos de la licencia antes de utilizar cualquier proyecto en tus propios trabajos. 📄💡
 
-## Atribución ©️
-
-Si decides utilizar o referenciar alguno de los proyectos de este repositorio, por favor proporciona una atribución adecuada. Puedes incluir algo como lo siguiente en tus trabajos:
-
-"Este proyecto utiliza [Nombre del Proyecto](Enlace al Proyecto) desarrollado por [Tu Nombre] y está disponible bajo [tipo de licencia]."
-
 ## Contacto 📬
 
-Si tienes preguntas, sugerencias o simplemente quieres decir ¡hola!, no dudes en contactarme. Puedes encontrarme en [tu correo electrónico] o en mis redes sociales (enlaces en mi perfil de GitHub). 📧🌐
+Si tienes preguntas, sugerencias o simplemente quieres decir ¡hola!, no dudes en contactarme. Puedes encontrarme en sr.filif@gmail.com o en mis redes sociales (enlaces en mi perfil de GitHub). 📧🌐
 
 Espero que encuentres estos proyectos útiles y educativos. ¡Disfruta explorando y creando con el código abierto! 🌟🚀
 
 --- 
 
-*Última actualización del README: [Fecha]* 🔄📅
+*Última actualización del README: 27/08/2023* 🔄📅
